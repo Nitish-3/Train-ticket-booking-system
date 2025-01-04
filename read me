@@ -1,0 +1,5 @@
+Created a train ticket booking system using Datas trutures and algorithms.which allows to book train ticket and login to portal using c++.
+Implemented hashmaps for creating user profile using keys as usernames and values as passwords.
+created different class one for trains ans one for the users and implemented train methods and customer methods respectively.
+used a switch case for selecting the task they wanted to perform.indicating with the respective feedback.like selecting the boarding point,departure and destination and intimated the users with feedback.
+created a structure for trains that describes if the tickets avalable or not for each train.
